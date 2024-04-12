@@ -1,0 +1,13 @@
+apiVersion: 1
+
+datasources:
+  - name: Environment
+    type: volkovlabs-env-datasource
+    access: proxy
+    isDefault: true
+    orgId: 1
+    uid: P9E471951A1B4106E
+    version: 1
+    editable: true
+    jsonData:
+      filter: GF_
